@@ -1,2 +1,4 @@
 # hamburgueria-da-kenzie
-Created with CodeSandbox
+
+
+Você pode vizualizar este projeto pelo codesandbox: https://mgeup.csb.app/
